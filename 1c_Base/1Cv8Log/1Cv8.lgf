@@ -43,4 +43,5 @@ d4614447-163d-4a7a-915e-0044a6e9feb4
 {4,"_$InfoBase$_.DBConfigUpdateError",20},
 {4,"_$Job$_.Cancel",21},
 {4,"_$Job$_.Start",22},
-{4,"_$Job$_.Finish",23}
+{4,"_$Job$_.Finish",23},
+{5,f11b35a9-3a61-4dae-9f36-09f50a8b0c1f,"Документ.ЗаказКлиента",9}
