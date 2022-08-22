@@ -54,4 +54,6 @@ d4614447-163d-4a7a-915e-0044a6e9feb4
 {4,"_$User$_.Update",26},
 {4,"_$Session$_.AuthenticationError",27},
 {1,4ce7dfeb-f09a-47bf-af31-1c9441d31677,"Администратор",2},
-{13,1,2}
+{13,1,2},
+{4,"_$InfoBase$_.DumpStart",28},
+{4,"_$InfoBase$_.DumpFinish",29}
