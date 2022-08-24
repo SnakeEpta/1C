@@ -12,4 +12,7 @@ d4614447-163d-4a7a-915e-0044a6e9feb4
 {4,"_$InfoBase$_.RestoreFinish",5},
 {4,"_$Session$_.AuthenticationError",6},
 {1,4ce7dfeb-f09a-47bf-af31-1c9441d31677,"Администратор",2},
-{13,1,2}
+{13,1,2},
+{4,"_$InfoBase$_.ConfigUpdate",7},
+{4,"_$InfoBase$_.DBConfigUpdateStart",8},
+{4,"_$InfoBase$_.DBConfigUpdate",9}
