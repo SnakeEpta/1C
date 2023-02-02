@@ -28,4 +28,5 @@ d4614447-163d-4a7a-915e-0044a6e9feb4
 {5,50d3c107-4877-4604-8d2a-36357aa3e489,"Константа.ИНН",3},
 {5,56a0162e-43f0-44f5-9d38-8ccab6486412,"Константа.ЮридическоеНаименованиеОрганизации",4},
 {4,"_$Transaction$_.Commit",14},
-{3,"BackgroundJob",3}
+{3,"BackgroundJob",3},
+{4,"_$InfoBase$_.DBConfigUpdateError",15}
