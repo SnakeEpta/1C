@@ -1,0 +1,16 @@
+﻿1CV8LOG(ver 2.0)
+91c6e1aa-4b7b-4928-bd61-a380f0864f2e
+
+{1,071523a4-516f-4fce-ba4b-0d11ab7a1893,"",1},
+{2,"RUSDT-NEW",1},
+{3,"Designer",1},
+{4,"_$Session$_.Authentication",1},
+{13,1,1},
+{4,"_$Session$_.Start",2},
+{4,"_$InfoBase$_.RestoreStart",3},
+{4,"_$Session$_.Finish",4},
+{4,"_$InfoBase$_.RestoreFinish",5},
+{4,"_$Session$_.AuthenticationError",6},
+{1,08c0b16e-6244-4a7e-869c-80827b9ec010,"Администратор",2},
+{13,1,2},
+{3,"1CV8C",2}
