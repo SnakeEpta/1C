@@ -35,4 +35,5 @@
 {5,fa6e38f4-d7e7-489c-b994-fb0f540f6c8b,"Документ.ЗаказКлиента",8},
 {4,"_$Data$_.Post",13},
 {4,"_$Data$_.Unpost",14},
-{4,"_$Transaction$_.Rollback",15}
+{4,"_$Transaction$_.Rollback",15},
+{4,"_$PerformError$_",16}
