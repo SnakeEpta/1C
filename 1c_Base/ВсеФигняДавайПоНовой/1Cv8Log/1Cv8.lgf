@@ -36,4 +36,6 @@
 {4,"_$Data$_.Post",13},
 {4,"_$Data$_.Unpost",14},
 {4,"_$Transaction$_.Rollback",15},
-{4,"_$PerformError$_",16}
+{4,"_$PerformError$_",16},
+{4,"_$Data$_.Delete",17},
+{5,e9b073e5-d240-458e-a3ff-85939d5d756b,"Документ.РасходнаяНакладная",9}
