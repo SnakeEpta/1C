@@ -38,4 +38,13 @@
 {4,"_$Transaction$_.Rollback",15},
 {4,"_$PerformError$_",16},
 {4,"_$Data$_.Delete",17},
-{5,e9b073e5-d240-458e-a3ff-85939d5d756b,"Документ.РасходнаяНакладная",9}
+{5,e9b073e5-d240-458e-a3ff-85939d5d756b,"Документ.РасходнаяНакладная",9},
+{4,"_$User$_.NewError",18},
+{4,"_$User$_.New",19},
+{4,"_$User$_.Update",20},
+{4,"_$Session$_.AuthenticationError",21},
+{1,e365c461-3583-492a-b747-ee8b54ce911b,"admin",2},
+{13,2,2},
+{1,2e24d02a-aa7f-485c-ade4-4288c55f4199,"Пользователь",3},
+{13,2,3},
+{4,"_$Access$_.AccessDenied",22}
