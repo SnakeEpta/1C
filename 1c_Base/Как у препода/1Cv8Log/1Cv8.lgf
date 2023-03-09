@@ -39,4 +39,8 @@
 {5,1be4c02d-7d25-4b66-9ef8-1efeeb1a8cb4,"Документ.РасходнаяНакладная",7},
 {4,"_$Transaction$_.Rollback",16},
 {4,"_$InfoBase$_.DBConfigUpdateError",17},
-{4,"_$Data$_.Unpost",18}
+{4,"_$Data$_.Unpost",18},
+{5,02a9d239-f6f1-4b69-9ce7-a1655b336693,"",8},
+{4,"_$Data$_.PredefinedDataInitialization",19},
+{5,02a9d239-f6f1-4b69-9ce7-a1655b336693,"Справочник.СкладыКомпании",8},
+{5,54276c88-5cb2-443b-b4d1-e089fd01ddc7,"Константа.СкладскойУчет",9}
